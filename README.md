@@ -69,7 +69,8 @@ phpinfo ();
 **Langkah 5:** cek configurasi
 
 contoh :192.168.100.94/info.php
-![image](https://github.com/user-attachments/assets/75fd28f0-f49f-484d-a809-faa2d0f9e5bf)
+![image](https://github.com/user-attachments/assets/21c9f25b-b07a-4ab2-85a1-5652c49994af)
+
 
 ## 3.Installasi APACHE2
 **Langkah 1:** Perbarui daftar paket dengan perintah
